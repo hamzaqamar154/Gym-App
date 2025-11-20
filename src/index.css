@@ -7,16 +7,16 @@ body,
 .app {
   height: 100%;
   width: 100%;
-  font-familty: "DM Sans", sans-serif;
+  font-family: "DM Sans", sans-serif;
   @apply text-gray-500;
 }
 
 @theme {
   --font-dmsans: "DM Sans", "sans-serif";
-  --font-montserrat: "Montserrat", "sans- serif";
+  --font-montserrat: "Montserrat", "sans-serif";
 
   --evolvetext: url("./assets/EvolveText.png");
-  --actractwaves: url("./assets/AbstractWaves.png");
+  --abstractwaves: url("./assets/AbstractWaves.png");
   --sparkles: url("./assets/Sparkles.png");
   --circles: url("./assets/Circles.png");
 
